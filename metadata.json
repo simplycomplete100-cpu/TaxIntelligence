@@ -1,0 +1,6 @@
+{
+  "name": "TaxIntel Pro - Tax Intelligence & Training Platform",
+  "description": "Professional tax intelligence hub featuring Tax Super Agent, IRS research, due diligence assistance, cheat sheet builder, client handouts, and preparer training center.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
